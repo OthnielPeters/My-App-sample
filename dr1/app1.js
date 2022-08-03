@@ -1,0 +1,1 @@
+console.joke(123);
